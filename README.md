@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello world! 👋
 
-<!--
-**Tskar/Tskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ReactJS
+- 🌱 I’m currently learning MongoDB/AngularJS
+- 👯 I’m looking to collaborate on ML projects
+- 🤔 I’m looking for help with ML w/ Py.
+- 💬 Ask me about Java, Python or any thing technical
+- 📫 How to reach me: Instagram - *[@sanskarthapa7]*(https://www.instagram.com/sanskarthapa7/), E-mail: [sanskarthapaofficial@gmail.com]
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I work/eat/sleep/soccer/repeat.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![enter image description here](https://github-readme-stats.vercel.app/api?username=Tskar&&show_icons=true&title_color=C38D9F&icon_color=C38D9E&text_color=C38D9E&bg_color=85DCB)
